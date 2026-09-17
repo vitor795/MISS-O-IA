@@ -33,23 +33,23 @@ const perguntas = [
                 },
                 {
                     texto:  "Articular investimentos e parcerias para obras públicas de grande porte voltadas ao saneamento básico, canalização de esgoto e drenagem urbana nas áreas periféricas.",
-                    afirmacao: "Você é uma pessoa que dá ênfase em priorizar os recursos disponíveis, pensando no meio ambiente e sem descartar o viés econômico."
+                    afirmacao: "Acredita que a saúde pública nas regiões vulneráveis só alcançará resultados definitivos quando as causas infraestruturais e os determinantes ambientais forem resolvidos por meio de obras de engenharia urbana."
                 }    
                
             ]
         },
         {
-            enunciado: "Hoje em dia é cada vez mais importante conhecer o seu corpo, suas qualidades, suas limitações e entender suas emoções. Saber controlá-las é o desafio das pessoas. A sua auto-estima impacta a sua qualidade de vida?",
+            enunciado: "Sobrecarga e Acesso a Consultas na Unidade Básica de Saúde (UBS)",
 
             alternativas: [
                 {
-                    texto: "Na maior parte do tempo, com certeza impacta, pois é a partir da autoestima que temos um olhar positivo ou negativo sobre nossas ações diárias. Sempre estou em busca de mais autoconhecimento.",
-                    afirmacao: "Você tem consciência que é importante ter uma boa auto-estima e procura se aprofundar mais sobre o assunto, vendo a vida de um jeito positivo."
+                    texto: "Uma Unidade Básica de Saúde situada em um bairro de extrema vulnerabilidade enfrenta longas filas diárias, sobrecarga de atendimentos e escassez de consultas com médicos especialistas. Como essa situação deve ser enfrentada?",
+                    afirmacao: " Ampliar a equipe da Estratégia Saúde da Família (ESF) e o horário de funcionamento da UBS, capacitando os profissionais generalistas e enfermeiros para resolver a maioria das demandas no próprio bairro."
                 },
                 {
-                    texto:    "Apenas ocasionalmente ou raramente. Às vezes minha autoestima oscila e isso pode afetar negativamente minha qualidade de vida em certas ocasiões.",
+                    texto:    "Firmar parcerias e convênios com a rede privada e filantrópica para a realização de mutirões emergenciais de exames e consultas especializadas, zerando a fila represada.",
                
-                    afirmacao: "Você demomostra que precisa se conhecer mais e mostra uma consciência de uma crescente necessidade de cuidar mais da própria percepção e bem-estar emocional."
+                    afirmacao: "Foca em reduzir o tempo de espera e aliviar o sofrimento imediato do cidadão, recorrendo a redes complementares e ações pontuais de alto impacto para resolver gargalos urgentes."
                 }    
                
             ]
