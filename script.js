@@ -5,15 +5,20 @@ const caixaResultado = document.querySelector(".caixa-resultado");
 const textoResultado = document.querySelector(".texto-resultado");
 const perguntas = [
     {
-        enunciado: "O cyberbullying é a violência virtual que ocorre geralmente com as pessoas tímidas e indefesas, ou simplesmente por não caírem na simpatia das mesmas. Como podemos evitá-lo",
+        enunciado: "Qual destas ações é fundamental para garantir o bom funcionamento e a eficiência do sistema de saúde pública?
+",
         alternativas: [
             {
-                texto: "Utilizando palestras para prevenir o cyberbullying nas escolas.",
-                afirmacao: "Você é uma pessoa reflexiva e busca aprendizado e conhecimento."
+                texto: "Quais das afirmações a seguir representam princípios fundamentais da saúde pública no Brasil?
+.",
+                afirmacao: "A Universalidade estabelece a saúde como direito de todos e dever do Estado. A Equidade complementa esse conceito ao reconhecer que, para tratar todos de forma justa, é preciso tratar de maneira diferenciada quem possui maior vulnerabilidade social e sanitária.
+."
             },
             {
-                texto:  "Prestando atenção aos sinais de cyberbullying nas escolas.",
-                afirmacao: "Você é uma pessoa observadora, pois se preocupa com o bem estar dos seus alunos."
+                texto:  "Quais das opções abaixo descrevem áreas de atuação essenciais da Vigilância em Saúde Pública para prevenir epidemias e proteger a população?
+.",
+                afirmacao: "A Vigilância Epidemiológica atua no monitoramento direto da circulação de vírus, bactérias e outras ameaças infecciosas. Já a Vigilância Sanitária intervém nos fatores ambientais, comerciais e fabris que podem comprometer a segurança da saúde coletiva.
+."
             }    
            
         ]
